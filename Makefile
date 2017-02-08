@@ -1,4 +1,4 @@
-PYTHON := python3
+PYTHON := py -3
 
 dir_build := build
 
